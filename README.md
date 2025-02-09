@@ -1,3 +1,8 @@
+
+superseded by Bsp30-Import
+
+
+
 # unityHalf-life
 open half-life goldsrc bsp in Unity3d 
 
